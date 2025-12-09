@@ -7,7 +7,7 @@ This repository contains a full workflow for predicting stock price movements us
 ## Overview
 
 The goal of this project is to explore how different algorithms perform on financial time-series data. 
-1. The pipeline downloads OHLCV stock data with 'yfinance'
+1. The pipeline downloads OHLCV stock data with `yfinance`
 2. It builds a wide set of technical indicators
 3. Then it creates lag features for sequence building
 4. It trains regression models, classification models, and LSTM
