@@ -30,7 +30,7 @@ All steps are executed through `main_enhanced.py`.
 
 - **Evaluation metrics**
   - Regression: RMSE, MAE, Direction Accuracy
-  - Classification: Accuracy, F1 Score, ROC AUC
+  - Classification: Accuracy
 
 - **Automatic result saving**
   - All outputs are stored in the `results/` directory
